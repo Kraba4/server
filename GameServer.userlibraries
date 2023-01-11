@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="gson-2.8.2">
+    <archive path="C:/Users/HONOR/Desktop/gson-2.8.2.jar" />
+  </library>
+  <library name="javassist-3.19.0-GA">
+    <archive path="C:/Users/HONOR/Desktop/javassist-3.19.0-GA.jar" />
+    <archive path="C:/Users/HONOR/Desktop/guava-15.0.jar" />
+    <archive path="C:/Users/HONOR/Desktop/annotations-2.0.1.jar" />
+  </library>
+  <library name="reflections-0.9.10">
+    <archive path="C:/Users/HONOR/Desktop/reflections-0.9.10.jar" />
+  </library>
+</eclipse-userlibraries>
+
