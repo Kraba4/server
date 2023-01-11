@@ -16,7 +16,7 @@ public class Server implements UserManager.UserManagerDelegate{
     LinkedList<Session> sessions = new LinkedList<Session>();
     LinkedList<UserManager> activeUserManagers = new LinkedList<>();
     public void run() throws IOException {
-        ServerSocket serverSocket = new ServerSocket(58197);
+        ServerSocket serverSocket = new ServerSocket(58888);
         while (isRunning) {
             Socket clientSocket = serverSocket.accept();
             System.out.println("accept");
